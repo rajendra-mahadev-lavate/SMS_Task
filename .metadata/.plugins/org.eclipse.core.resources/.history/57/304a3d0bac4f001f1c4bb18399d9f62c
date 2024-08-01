@@ -1,0 +1,5 @@
+package org.task.repo;
+
+public class MarksRepository {
+
+}

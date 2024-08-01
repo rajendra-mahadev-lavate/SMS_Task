@@ -1,0 +1,4 @@
+package org.task.repo;
+
+public interface MarksRepository extends JpaRepository<Marks, Long> {
+}

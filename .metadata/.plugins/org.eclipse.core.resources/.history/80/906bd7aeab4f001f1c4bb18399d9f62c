@@ -1,0 +1,10 @@
+package org.task.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name=marks)
+public class Marks {
+
+}
